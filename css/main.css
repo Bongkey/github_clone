@@ -145,7 +145,7 @@ header .logo {
 }
 
 header .logo a {
-    background: url("/img/logo.svg");
+    background: url("../img/logo.svg");
     width: 32px;
     height: 32px;
     display: block;
@@ -155,7 +155,7 @@ header .logo a {
 }
 
 header .logo a:hover {
-    background: url("/img/logo_on.svg");
+    background: url("../img/logo_on.svg");
 }
 
 header .main-menu {
@@ -219,7 +219,7 @@ header .sub-menu li a:hover {
 
 /* VISUAL */
 .section--visual {
-    background-image: url("/img/bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-repeat: no-repeat;
     background-position: bottom left;
     background-size: cover;
